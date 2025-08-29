@@ -1,0 +1,171 @@
+  body {
+    background: linear-gradient(to right, rgb(16, 160, 218), rgb(255, 187, 0));
+  }
+  h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    box-shadow: 9px 9px 9px rgb(52, 4, 4);
+    width: 300px;
+    padding-left: 20px;
+  }
+    
+    p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: justify;
+    margin-left: 10px;
+  }
+
+  .Bhanu {
+    border-style: solid;
+    width: 200px;
+    height: 340px;
+    border: none;
+    margin-left: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1.5);
+    display: inline-block;
+  }
+
+  .Bhanu-name {
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+  }
+
+  .name {
+    margin-top: 10px;
+    width: 300px;
+    margin-bottom: 5px;
+
+  }
+
+  .roll {
+    margin-bottom: 5px;
+  }
+
+  .sec {
+    margin-bottom: 5px;
+  }
+
+  .insta {
+    margin-top: 5px;
+    display: inline-block;
+  }
+
+    .Sahil {
+    border-style: solid;
+    width: 200px;
+    height: 340px;
+    border: none;
+    margin-left: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1.5);
+    display: inline-block;
+  }
+
+  .Sahil-name {
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+  }
+
+  .name {
+    margin-top: 10px;
+    width: 300px;
+    margin-bottom: 5px;
+
+  }
+
+  .roll {
+    margin-bottom: 5px;
+  }
+
+  .sec {
+    margin-bottom: 5px;
+  }
+
+  .insta {
+    margin-top: 5px;
+    display: inline-block;
+  }
+
+  .Sushil {
+    border-style: solid;
+    width: 200px;
+    height: 340px;
+    border: none;
+    margin-left: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1.5);
+    display: inline-block;
+  }
+
+  .Sushil-name {
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+  }
+
+  .name {
+    margin-top: 10px;
+    width: 300px;
+    margin-bottom: 5px;
+
+  }
+
+  .roll {
+    margin-bottom: 5px;
+  }
+
+  .sec {
+    margin-bottom: 5px;
+  }
+
+  .insta {
+    margin-top: 5px;
+    display: inline-block;
+  }
+  
+  .Avinash {
+    border-style: solid;
+    width: 200px;
+    height: 340px;
+    border: none;
+    margin-left: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 1.5);
+    display: inline-block;
+  }
+
+  .Avinash-name {
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+  }
+
+  .name {
+    margin-top: 10px;
+    width: 300px;
+    margin-bottom: 5px;
+
+  }
+
+  .roll {
+    margin-bottom: 5px;
+  }
+
+  .sec {
+    margin-bottom: 5px;
+  }
+
+  .insta {
+    margin-top: 5px;
+    display: inline-block;
+  }

@@ -1,0 +1,151 @@
+
+/* Style all header  */
+
+.header {
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0px 0px 1px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 100;
+}
+
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.hamburger-logo {
+  height: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.youtube-logo {
+  height: 20px;
+  cursor: pointer;
+}
+
+.center-section {
+  display: flex;
+  flex: 1;
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 600px;
+  align-items: center;
+}
+
+.Search-box {
+  height: 19px;
+  flex: 1;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(192, 192, 192);
+  border-radius: 2px;
+  box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
+  width: 0;
+}
+
+
+
+.Search-box::placeholder {
+  font-family: roboto, arial;
+  font-size: 16px;
+}
+
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 65px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(192, 192, 192);
+  border-radius: 2px;
+  margin-left: -1px;
+  margin-right: 10px;
+
+}
+
+.search-bar .search-tool {
+  position: absolute;
+  background-color: rgb(173, 173, 173);
+  color: white;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  border-radius: 2px;
+  font-size: 12px;
+  bottom: -30px;
+  opacity: 0;
+  transition: opacity 0.15s;
+
+}
+
+.search-bar:hover .search-tool {
+  opacity: 1;
+}
+
+.voice-search-bar {
+  height: 40px;
+  width: 40px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+  margin-left: 10px;
+  border-radius: 20px;
+}
+
+.voice-search-logo {
+  height: 24px;
+}
+
+.left-section {
+  display: flex;
+  width: 280px;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.leftside-logo {
+  height: 30px;
+}
+
+.leftside-logo-pic {
+  height: 35px;
+  border-radius: 50px;
+}
+
+.notification {
+  position: relative;
+}
+
+.notification-count {
+  position: absolute;
+  top: -3px;
+  right: -4px;
+  background-color: rgb(192, 6, 6);
+  color: white;
+  font-family: roboto, arial;
+  font-size: 14px;
+  border-radius: 40px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
